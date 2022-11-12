@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coctail-strength-app/static/css/main.0f45a399.css",
+    "main.js": "/coctail-strength-app/static/js/main.624c4ad8.js",
+    "index.html": "/coctail-strength-app/index.html",
+    "main.0f45a399.css.map": "/coctail-strength-app/static/css/main.0f45a399.css.map",
+    "main.624c4ad8.js.map": "/coctail-strength-app/static/js/main.624c4ad8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f45a399.css",
+    "static/js/main.624c4ad8.js"
+  ]
+}
